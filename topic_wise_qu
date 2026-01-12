@@ -1,1 +1,386 @@
+Data Structures
+Lists
 
+Remove duplicates while preserving order.
+
+Find second largest/smallest element.
+
+Move zeros to the end.
+
+Merge two sorted lists.
+
+Flatten a nested list.
+
+Reverse a list without using slicing.
+
+Rotate a list by k positions.
+
+Find the maximum subarray sum (Kadane’s algorithm).
+
+Check if a list is a palindrome.
+
+Count occurrences of each element in a list.
+
+Find all pairs that sum to a target.
+
+Implement your own list.append() function (simulation).
+
+Find the missing number in a sequence.
+
+Find duplicates in a list efficiently.
+
+Find common elements between multiple lists.
+
+Dictionaries / Sets
+
+Count frequency of elements using dictionary.
+
+Find most common element.
+
+Group anagrams together.
+
+Implement Two-Sum problem using dictionary.
+
+Check if two lists are permutations of each other.
+
+Remove duplicates from a list of dictionaries.
+
+Intersection and union of two lists.
+
+Check if a list has duplicates using a set.
+
+Count unique elements in a list.
+
+Find keys with maximum/minimum values in a dictionary.
+
+Tuples
+
+Swap values using tuple unpacking.
+
+Count frequency of elements in a tuple.
+
+Convert a list of tuples into a dictionary.
+
+Sort a list of tuples by a specific element.
+
+Merge multiple tuples into one.
+
+2️⃣ Algorithms
+Sorting
+
+Implement Bubble Sort.
+
+Implement Quick Sort.
+
+Implement Merge Sort.
+
+Sort a list of tuples by the second element.
+
+Sort a list without using built-in sorted() or sort().
+
+Sort a list of strings by length.
+
+Searching
+
+Implement Binary Search.
+
+Find first/last occurrence of an element in a sorted array.
+
+Search in a rotated sorted array.
+
+Find an element in a 2D matrix sorted row-wise and column-wise.
+
+Find the square root of a number using binary search.
+
+Search for an element in a linked list (simulate with lists).
+
+Recursion
+
+Fibonacci sequence (recursive).
+
+Factorial of a number (recursive).
+
+Tower of Hanoi problem.
+
+Flatten a nested list recursively.
+
+Generate all permutations of a string/list.
+
+Generate all combinations of a string/list.
+
+Recursive solution for generating power set.
+
+Recursive solution to find GCD of two numbers.
+
+Count paths in a grid (matrix) from top-left to bottom-right.
+
+3️⃣ Python Features
+OOP
+
+Explain mutable vs immutable class variables.
+
+Implement a class with getter and setter methods.
+
+Operator overloading (+, -, ==).
+
+Difference between @classmethod, @staticmethod, and instance methods.
+
+Implement a Singleton class.
+
+Implement inheritance and method overriding.
+
+Explain Python’s MRO (Method Resolution Order).
+
+Create a custom exception and handle it.
+
+Implement encapsulation in Python.
+
+Built-ins
+
+Use zip to transpose a matrix.
+
+Use enumerate in a problem.
+
+Use map, filter, reduce to solve a problem.
+
+Use any() and all() for list checks.
+
+Use sorted() with custom key functions.
+
+Difference between is vs ==.
+
+Difference between shallow copy and deep copy (copy module).
+
+Difference between del and pop.
+
+Generators
+
+Write a generator for Fibonacci numbers.
+
+Generator to yield even numbers up to N.
+
+Generator to yield infinite sequence (lazy evaluation).
+
+Convert a list comprehension into a generator expression.
+
+Implement your own iterator class.
+
+Decorators
+
+Write a decorator to log execution time.
+
+Write a decorator to validate function arguments.
+
+Nested decorators example.
+
+Class-based decorator example.
+
+Decorator to cache results (memoization).
+
+4️⃣ Practical Coding Skills / Real-World Problems
+
+Read a large CSV and process line by line.
+
+Remove duplicates from a Pandas DataFrame.
+
+Group data using groupby in Pandas.
+
+Merge two datasets efficiently.
+
+Write a simple REST API client using requests.
+
+Web scraping using BeautifulSoup or Scrapy.
+
+Process a million records efficiently (memory optimization).
+
+Merge overlapping intervals.
+
+Implement a simple LRU Cache.
+
+Matrix operations: rotate, transpose, sum diagonals.
+
+Count islands in a 2D grid (DFS/BFS).
+
+Implement a script to monitor a folder for new files.
+
+Remove null/empty values from JSON.
+
+Extract unique values from nested dictionaries/lists.
+
+Write a scheduler to run tasks periodically.
+
+Implement logging for a script that processes data.
+
+Validate CSV data and report errors.
+
+Automate sending emails with Python.
+
+Implement pagination logic for large datasets.
+
+Convert nested JSON into a flat table.
+
+Find missing dates in a date range.
+
+Implement a text search/filter in a large dataset efficiently.
+
+
+
+#-----------------------------
+
+1️⃣ Data Structures (Lists, Dicts, Sets, Tuples)
+
+Implement a circular queue using a list.
+
+Find all unique triplets in a list that sum to zero.
+
+Find the longest increasing subsequence in a list.
+
+Find the majority element in a list (appears > n/2 times).
+
+Implement a priority queue using a list/dictionary.
+
+Rotate a 2D list in place (without creating a new matrix).
+
+Given a list, replace each element with the product of all other elements.
+
+Count distinct pairs with difference k in a list.
+
+Find all sublists of length k with maximum sum.
+
+Implement a deque (double-ended queue) from scratch.
+
+Dictionaries / Sets
+
+Count pairs with equal sum using dictionaries.
+
+Find all elements that appear exactly twice in a list.
+
+Check if a list of numbers can form a consecutive sequence.
+
+Find the first repeating element in a list.
+
+Implement a frequency-sorted list (sort elements by occurrence).
+
+Find missing elements from 1…N efficiently.
+
+Find intersection of multiple lists.
+
+Find union of multiple dictionaries (sum values for same key).
+
+Implement a set difference function without using set() methods.
+
+Find pairs in a list whose product is a perfect square.
+
+Tuples
+
+Convert a list of tuples into a dictionary, summing duplicate keys.
+
+Given a list of tuples (start, end), merge overlapping intervals.
+
+Sort a list of tuples based on the sum of elements in each tuple.
+
+Find tuples where first element is equal to the index.
+
+Rotate a list of tuples without converting to a list of lists.
+
+2️⃣ Algorithms
+Sorting / Searching
+
+Implement counting sort for integers.
+
+Implement radix sort.
+
+Search for a peak element in a list (element larger than neighbors).
+
+Implement jump search.
+
+Find the kth largest element using heap/dictionary.
+
+Recursion / DP
+
+Solve n-queens problem.
+
+Count ways to climb stairs with 1, 2, or 3 steps (dynamic programming).
+
+Solve subset sum problem recursively.
+
+Generate all valid parentheses combinations for n pairs.
+
+Compute edit distance (Levenshtein distance) between two strings.
+
+Solve longest common subsequence (LCS) problem.
+
+Count the number of binary search trees possible with n nodes.
+
+Solve coin change problem.
+
+Find all paths from top-left to bottom-right in a matrix with obstacles.
+
+Recursively solve matrix exponentiation for Fibonacci numbers.
+
+3️⃣ Python Features
+OOP / Classes
+
+Implement composition instead of inheritance in a small class example.
+
+Implement a vehicle class hierarchy with polymorphism.
+
+Implement a bank account class with deposit, withdraw, and interest calculation.
+
+Implement a custom iterator for a class.
+
+Create a class with dynamic attribute assignment.
+
+Implement method chaining in a class.
+
+Implement a class that counts the number of instances created.
+
+Built-ins / Generators / Decorators
+
+Write a generator to yield prime numbers infinitely.
+
+Implement a sliding window using a generator.
+
+Write a decorator to retry a function n times if it fails.
+
+Write a memoization decorator for any recursive function.
+
+Write a generator that yields the first N numbers of Pascal’s Triangle.
+
+Use itertools to generate all combinations of a list.
+
+Implement a function that flattens any iterable (list, tuple, set) recursively.
+
+Write a decorator to measure memory usage of a function.
+
+4️⃣ Practical / Real-World Coding Skills
+
+Read a large JSON file and filter records by conditions.
+
+Chunk a large file into smaller files of N lines each.
+
+Implement a simple URL shortener algorithm.
+
+Monitor a folder and process only new files (using Python).
+
+Write a script to merge multiple CSV files into one efficiently.
+
+Find duplicate images in a folder using hashes.
+
+Scrape multiple pages of a website and save data in CSV.
+
+Implement a cache system for API responses using a dictionary.
+
+Implement a task scheduler that executes Python functions at intervals.
+
+Convert nested JSON into a flattened CSV.
+
+Find the top N frequent words in a large text file.
+
+Data deduplication: remove records with duplicate fields from large datasets.
+
+Implement pagination logic for a large dataset.
+
+Implement rate-limiting for a function call.
+
+Write a Python script to detect anomalies in a time series dataset.
