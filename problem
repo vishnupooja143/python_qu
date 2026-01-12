@@ -1,1 +1,131 @@
+1. String Problems
 
+Reverse a string without using slicing.
+
+Check if a string is a palindrome.
+
+Find the first non-repeating character in a string.
+
+Count the frequency of each character in a string.
+
+Check if two strings are anagrams.
+
+Longest substring without repeating characters.
+
+Reverse words in a sentence.
+
+Implement your own str.replace() function.
+
+Remove all vowels from a string.
+
+Find all permutations of a string.
+
+2. List / Array Problems
+
+Remove duplicates from a list while maintaining order.
+
+Find duplicates in a list.
+
+Find the second largest/smallest element in a list.
+
+Merge two sorted lists into a single sorted list.
+
+Rotate a list by k elements.
+
+Move all zeros to the end of a list.
+
+Find the subarray with the maximum sum (Kadane’s Algorithm).
+
+Find missing numbers in a sequence.
+
+Pair sum problem: find all pairs that sum to a target.
+
+Implement your own flatten function for nested lists.
+
+3. Dictionary / Set Problems
+
+Count frequency of elements in a list.
+
+Group words that are anagrams together.
+
+Find the most common element in a list.
+
+Intersection of two lists using sets.
+
+Check if a list contains duplicates using a dictionary/set.
+
+Implement a simple LRU Cache using OrderedDict or dict+linked list.
+
+Two Sum problem using dictionary for O(n) solution.
+
+Find elements that appear only once in a list.
+
+Check if two lists are permutations of each other.
+
+Implement a word count program from a text file.
+
+4. Algorithm / Math Problems
+
+Implement Fibonacci (iterative and recursive).
+
+Factorial of a number using recursion.
+
+Check if a number is prime.
+
+Generate all prime numbers up to N.
+
+Check if a number is a power of two.
+
+Implement binary search in a sorted list.
+
+Implement merge sort / quick sort.
+
+Count the number of digits in a number.
+
+Reverse an integer without converting it to a string.
+
+Find the greatest common divisor (GCD) of two numbers.
+
+5. 2D / Matrix Problems
+
+Rotate a 2D matrix 90 degrees clockwise.
+
+Transpose a matrix.
+
+Find the sum of diagonals in a matrix.
+
+Find the largest element in each row/column.
+
+Search for a number in a sorted 2D matrix.
+
+Count the number of islands in a 2D grid (advanced).
+
+Set all rows and columns to zero if an element is zero.
+
+Spiral order traversal of a matrix.
+
+Find saddle points in a matrix.
+
+Matrix multiplication implementation.
+
+6. Python-Specific / Advanced Problems
+
+Implement a generator for Fibonacci numbers.
+
+Implement a decorator that logs function execution time.
+
+Implement a context manager using with.
+
+Implement memoization for a recursive function.
+
+Use *args and **kwargs to write a flexible function.
+
+Write a function to remove duplicates from a list of dictionaries.
+
+Implement a stack using two queues.
+
+Implement a queue using two stacks.
+
+Flatten a nested dictionary.
+
+Implement a simple REST API client using requests and handle JSON responses.
