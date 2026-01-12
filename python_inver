@@ -1,0 +1,59 @@
+What is Python and where is it used?
+
+What are the key features of Python?
+
+What is the difference between list and tuple?
+
+What is mutable and immutable in Python?
+
+What is the difference between == and is?
+
+What are *args and **kwargs?
+
+What is a dictionary and how does it work?
+
+What is list comprehension?
+
+What is slicing in Python?
+
+What is None in Python?
+
+What is a function in Python?
+
+What is a lambda function?
+
+What is OOP in Python?
+
+What is inheritance?
+
+What is polymorphism?
+
+What is encapsulation?
+
+What is the difference between method overloading and overriding?
+
+What is exception handling in Python?
+
+What is the difference between raise and assert?
+
+What is the purpose of the __init__ method?
+
+What are decorators in Python?
+
+What is a generator?
+
+What is the difference between yield and return?
+
+What is the Global Interpreter Lock (GIL)?
+
+What is multithreading?
+
+What is multiprocessing?
+
+How does memory management work in Python?
+
+What is a virtual environment?
+
+What is the difference between range() and xrange()?
+
+What are dunder (magic) methods in Python?
