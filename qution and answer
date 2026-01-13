@@ -23,3 +23,33 @@ def name_rev(s):
 print(name_rev("vishnuvardhanreddy"))
 
 
+Check if a string is a palindrome.
+
+
+name='heleh'
+
+print(name == name[::-1])
+
+rev1=''
+for i in name:
+    rev1=i+rev1
+if(rev1 == name):
+    print("This is palindrom")
+else:
+    print("Not Polindrom")
+
+
+is_pali=True
+i=0
+j=len(name)-1
+while i < j:
+    if name[i] != name[j]:
+        is_pali=False
+        break
+    i=i+1
+    j=j-1
+if is_pali:
+    print("Palindrome")
+else:
+    print("Not Palindrome")
+        
