@@ -71,4 +71,21 @@ for j in led_code:
         break
 else:
     print("not found")
+
+
+
+
+Count the frequency of each character in a string.
+
+name="hello vishnu vardhan reddy how are you"
+
+led_count={}
+
+for i in name:
+    if i!= " ":
+        led_count[i]=led_count.get(i,0)+1
+# print(led_count)
+
+for j,k in led_count.items():
+    print(j,'=',k)
         
