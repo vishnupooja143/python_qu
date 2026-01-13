@@ -52,4 +52,23 @@ if is_pali:
     print("Palindrome")
 else:
     print("Not Palindrome")
+
+
+
+
+Find the first non-repeating character in a string.
+
+# name='vishnuvardhan'
+name=input("entere you name")
+
+led_code={}
+
+for i in name:
+    led_code[i]=led_code.get(i,0)+1
+for j in led_code:
+    if led_code[j] == 1:
+        print("first numebr",j)
+        break
+else:
+    print("not found")
         
